@@ -14,7 +14,7 @@ Creating a token using Solidity.
 # How to run.
 
 Running the created Solidity program.
-1) Go to remix.ethereum.org
+1) Go to https://remix.ethereum.org (An online Solidity IDE)
 2) Create a file with the extension of .sol (eg. Metacrafters.sol)
 3) Write the program.
 4) Compile the program (Ctrl + s / command + s)
